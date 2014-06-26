@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<polar-exercise-data xmlns="http://www.polarpersonaltrainer.com" version="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.polarpersonaltrainer.com http://www.polarpersonaltrainer.com/schemas/ped-1.0.xsd">  
+  <calendar-items count="1"> 
+    <exercise> 
+      <created>2013-07-18 08:16:40.0</created>  
+      <time>2013-07-18 18:14:40.0</time>  
+      <result> 
+        <calories>4</calories>  
+        <duration>00:01:41</duration>  
+        <user-settings> 
+          <heart-rate> 
+            <resting>55</resting>  
+            <maximum>191</maximum> 
+          </heart-rate>  
+          <vo2max>54</vo2max>  
+          <weight>68.0</weight>  
+          <height>170.0</height> 
+        </user-settings>  
+        <zones> 
+          <zone index="0"> 
+            <upper>114</upper>  
+            <lower>95</lower>  
+            <in-zone>00:00</in-zone> 
+          </zone>  
+          <zone index="1"> 
+            <upper>133</upper>  
+            <lower>114</lower>  
+            <in-zone>00:00</in-zone> 
+          </zone>  
+          <zone index="2"> 
+            <upper>152</upper>  
+            <lower>133</lower>  
+            <in-zone>00:00</in-zone> 
+          </zone>  
+          <zone index="3"> 
+            <upper>171</upper>  
+            <lower>152</lower>  
+            <in-zone>00:00</in-zone> 
+          </zone>  
+          <zone index="4"> 
+            <upper>191</upper>  
+            <lower>171</lower>  
+            <in-zone>00:00</in-zone> 
+          </zone> 
+        </zones>  
+        <heart-rate> 
+          <average>77</average>  
+          <maximum>92</maximum> 
+        </heart-rate>  
+        <recording-rate>1</recording-rate>  
+        <fat-consumption>71</fat-consumption>  
+        <samples> 
+          <sample> 
+            <type>HEARTRATE</type>  
+            <values>76,76,75,75,76,76,75,75,79,79,84,84,85,85,82,82,80,80,82,82,75,75,79,79,75,77,74,72,72,75,74,73,76,74,72,71,71,73,75,75,72,70,69,72,74,78,81,84,86,87,80,76,74,75,81,81,87,84,85,87,86,78,75,72,72,71,71,70,70,72,72,71,70,69,67,68,68,71,72,72,73,72,71,73,73,73,72,72,75,75,74,74,81,81,89,89,92,92,89,89,89,84,80</values> 
+          </sample> 
+        </samples> 
+      </result> 
+    </exercise> 
+  </calendar-items> 
+</polar-exercise-data>
