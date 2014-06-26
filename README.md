@@ -8,9 +8,10 @@ This code is currently beta version done specifically for a reseach project.
 A More generic version is coming soon.
 
 Installation steps:
-1. Download the entire code into a web server or local apache folders such as /var/www or /htdocs on XAMPP.
+Download the entire code into a web server or local apache folders such as /var/www or /htdocs on XAMPP.
 
 Steps:
+
 1. Download and install Polar Beat application on your phone.
 
 2. Record a new activity.
