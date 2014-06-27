@@ -2,6 +2,8 @@ SweatAtoms
 ==========
 
 Create five different 3d models using the measured heart rate data of physical activity.
+Demo is available at: http://pascal.iiit.ac.in/~deepti.aggarwal/sweatatoms/ 
+< works in firefox >
 
 DISCLAIMER:
 This code is currently beta version done specifically for a reseach project.
@@ -17,7 +19,7 @@ Steps:
 2. Record a new activity.
 
 3. Download the activity data as a xml file into 
-(xml) file from Polar H7 heart rate monitor.
+(xml) file from polarpersonaltrainer.com website.
 
 4. Start localhost/apache if you are working locally.
 
